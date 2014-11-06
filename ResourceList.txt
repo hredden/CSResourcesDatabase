@@ -1,0 +1,107 @@
+Ethics for the IT Professional
+
+Computer Science Fundamentals
+W, Harvard's This is CS 50, http://cs50.tv/2010/fall/ , 2010, Computer Science 50 (otherwise known as CS50) is Harvard College's introductory course for majors and non-majors alike, a one-semester amalgam of courses generally known as CS1 and CS2 taught mostly in C.
+W, MIT's Structure and Interpretation of Computer Programs, http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/ , 2005, MIT's open course CS introduction.
+W, Stanfords Introduction to Computer Science, http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee , n.d., Stanford's Intro to CS lectures.
+B, Structure and Interpretation of Computer Programs, http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-1.html , 1996, Companion text used by MIT's Structure and Interpretation of Computer Programs, freely available online. Harold Abelson and Gerald Jay Sussman, MIT Press 
+B, Foundations of Computer Science, http://infolab.stanford.edu/~ullman/focs.html , 1992, Free intro to CS textbook, Al Aho and Jeff Ullman, N/A.
+
+
+Control Structures
+
+Data Structures
+W, Open Data Structures, http://opendatastructures.org/ , n.d., Online open textbooks on data structures.
+
+Assembly Language
+B, The Art of Assembly Language, http://www.plantation-productions.com/Webster/www.artofasm.com/Windows/HTML/AoATOC.html , n.d., Considered one of the best x86 assembly books ever written, freely available online.
+
+
+Advanced Programming and Algorithms
+W, Jeff Erickson's Algorithm Notes, http://web.engr.illinois.edu/~jeffe/teaching/algorithms/ , 2013, Lecture notes for the undergraduate and graduate algorithms classes taught at the University of Illinois, Urbana-Champaign.
+W, Big-O cheat sheet, http://bigocheatsheet.com/ , n.d., Big-O of common CS algorithms.
+W, CompSci 101 - Big-O Notation, http://www.daveperrett.com/articles/2010/12/07/comp-sci-101-big-o-notation/ , 2010, Breakdown of Big-O notation.
+
+Computation Theory
+B, An Introduction to the Theory of Computation, http://web.cse.ohio-state.edu/~gurari/theory-bk/theory-bk.html , 1989, Free online textbook for Theory of Computation, Eitan M. Gurari, Computer Science Press.
+W, Theory of Computation, http://aduni.org/courses/theory/index.php?view=cw , n.d., Online lectures on Computation Theory. 
+
+Principles of Programming Languages
+B, Programming Languages: Application and Interpretation, http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/ , 2007, Free programming languages book, Shriram Krishnamurthi, N/A.
+W, Programming Language Theory study list, https://github.com/steshaw/plt-study , n.d., List of programming theory books and lectures.
+
+Introduction to Statistics
+
+Discrete Mathematics
+V, Skiena's Discrete Mathematics Lectures, http://www3.cs.stonybrook.edu/~algorith/math-video/ ,1999, Series of discrete math lectures from Stony Brooke.
+B, Discrete Mathematics with Algorithms, http://www.macalester.edu/~hutchinson/book/book.html , n.d., Free discrete math book, M. O. Albertson and J. P. Hutchinson, N/A.
+
+
+Calculus I 
+W, Paul's online math notes, http://tutorial.math.lamar.edu/ , n.d., Great resource for upper level math notes/tutorials.
+W, MIT Single Variable Calculus, http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/ , n.d., MIT's open calculus course.
+W, Trig Cheat Sheet, http://tutorial.math.lamar.edu/pdf/Trig_Cheat_Sheet.pdf , n.d., Helpful cheat sheet for trig laws / concepts.
+
+Calculus II  
+W, Paul's online math notes, http://tutorial.math.lamar.edu/ , n.d., Great resource for upper level math notes/tutorials.
+W, Trig Cheat Sheet, http://tutorial.math.lamar.edu/pdf/Trig_Cheat_Sheet.pdf , n.d., Helpful cheat sheet for trig laws / concepts.
+
+Operating Systems
+B, Operating Systems: Three Easy Pieces, http://pages.cs.wisc.edu/~remzi/OSTEP/ , 2014, Free online operating systems book, Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Arpaci-Dusseau Books.
+
+
+Modern Software Engineering
+B, The Pragmatic Programmer, N/A, 2000, Must read software engineering book, Andrew Hunt and David Thomas, Addison - Wesley.
+
+Object-Oriented Programming using Java
+
+Computer Organization and Architecture
+W, Nand2Tetris, http://www.nand2tetris.org/ , n.d., "The site contains all the software tools and project materials necessary to build a general-purpose computer system from the ground up. We also provide a set of lectures designed to support a typical course on the subject."
+B, Code: The Hidden Language of Computer Hardware and Software, http://www.amazon.com/Code-Developer-Practices-Charles-Petzold-ebook/dp/B00JDMPOK2/ref=sr_1_1?s=books&ie=UTF8&qid=1415260248&sr=1-1&keywords=code , 2000, Excellent introduction to Computer Architecture, Charles Petzold, Microsoft Press.
+
+Data Networks
+W, ip subnet calculator, http://www.subnet-calculator.com/ , n.d., Online tool to calculate subnets.
+
+Linear Algebra
+B, Linear Algebra, http://joshua.smcvt.edu/linearalgebra/ , n.d., Free Linear Algebra textbook, Jim Hefferon, Saint Michael's College.
+
+
+Web and Database Programming
+V, WATCH THIS IF YOU WANT TO BECOME A WEB DEVELOPER! - Web Development Career advice, https://www.youtube.com/watch?v=zXqs6X0lzKI&feature=youtu.be , 2014, A web developer describes what he wishes he had been told when first starting out.
+
+Computer Systems Security 
+
+Advanced Data Structures 
+
+Database Programming 
+
+Database Management 
+
+Artificial Intelligence: Symbolic Reasoning 
+
+UNIX Operating Systems 
+
+Advanced UNIX
+
+General CS Resources 
+W, Academic Earth lectures, http://academicearth.org/computer-science/ , n.d., Lectures from top universities.
+W, List of Free CS Books, https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development , n.d., Compilation of free CS and Math books.
+W, Open textbooks, http://collegeopentextbooks.org/opentextbookcontent/open-textbooks-by-subject/computerscience , n.d., List of open source textbooks.
+W, Teaching Tree, http://teachingtree.co/ , n.d., Compilation of CS resources sorted by subject.
+W, MIT OCW, http://ocw.mit.edu/courses/ocw-scholar/, n.d., Open courses offered by MIT.
+W, Google Developers University Consortium, https://developers.google.com/university/courses/ , n.d., List of courses offered by Google Developers University Consortium - Programming centered.
+W, Art of Problem Solving, http://www.artofproblemsolving.com/Forum/index.php , n.d., Online community dedicated to improving mathematical and problem solving abilities.
+W, What every computer science major should know, http://matt.might.net/articles/what-cs-majors-should-know/ , n.d., List of things every CS major should know.
+
+General Programming
+W, C++ video tutorials, http://xoax.net/cpp/crs/console/index.php , n.d., Collection of C++ video tutorials.
+W, Martyr2'S Mega Project Ideas List!, http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/ , 2008, List of project ideas to test your programming abilities.
+W, Programming cheat sheets, http://codecall.net/2014/04/03/best-cheat-sheets-for-designers-and-programmers/ , 2014, 75 ESSENTIAL CHEAT SHEETS FOR DESIGNERS AND PROGRAMMERS.
+
+
+General Math Resources
+W, MIT OCW, http://ocw.mit.edu/courses/ocw-scholar/, n.d., Open courses offered by MIT.
+W, MathOverflow list of free math courses, http://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free , n.d., List of freely available online math courses.
+W, XOAX.NET math video tutorials, http://xoax.net/math/index.php , Free math tutorials.
+W, Trig Cheat Sheet, http://tutorial.math.lamar.edu/pdf/Trig_Cheat_Sheet.pdf , n.d., Helpful cheat sheet for trig laws / concepts.
+
