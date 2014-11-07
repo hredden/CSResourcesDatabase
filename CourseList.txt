@@ -1,26 +1,26 @@
-Ethics for the IT Professional
-Computer Science Fundamentals
-Control Structures
-Data Structures
-Assembly Language
-Advanced Programming and Algorithms
-Computation Theory
-Principles of Programming Languages
-Introduction to Statistics
-Introduction to Discrete Mathematics 
-Calculus I 
-Calculus II  
-Operating Systems
-Modern Software Engineering
-Object-Oriented Programming using Java
-Computer Organization and Architecture
-Data Networks
-Linear Algebra
-Web and Database Programming
-Computer Systems Security 
-Advanced Data Structures 
-Database Programming 
-Database Management 
-Artificial Intelligence: Symbolic Reasoning 
-UNIX Operating Systems 
-Advanced UNIX 
+"Ethics for the IT Professional",
+"Computer Science Fundamentals",
+"Control Structures",
+"Data Structures",
+"Assembly Language",
+"Advanced Programming and Algorithms",
+"Computation Theory",
+"Principles of Programming Languages",
+"Introduction to Statistics",
+"Introduction to Discrete Mathematics",
+"Calculus I",
+"Calculus II", 
+"Operating Systems",
+"Modern Software Engineering",
+"Object-Oriented Programming using Java",
+"Computer Organization and Architecture",
+"Data Networks",
+"Linear Algebra",
+"Web and Database Programming",
+"Computer Systems Security",
+"Advanced Data Structures",
+"Database Programming",
+"Database Management",
+"Artificial Intelligence: Symbolic Reasoning",
+"UNIX Operating Systems",
+"Advanced UNIX"

@@ -1,38 +1,49 @@
---Creates tables for CSResources database
+
 
 Create table Courses_T(
-Course_ID integer auto_increment constraint Course_T_PK primary key,
+Course_ID integer auto_increment,
 Course_Name varchar(60),
-Date_Added Date default current_timestamp
+Date_Added timestamp default current_timestamp,
+constraint Course_T_PK primary key (Course_ID)
+);
+
+Create table Resource_Type_T(
+Resource_Type char(1) not null,
+Resource_Type_Name varchar(20) not null,
+constraint Resource_Type_T_PK primary key (Resource_Type)
 );
 
 Create table Resources_T(
-Resource_ID integer auto_increment constraint Resource_T_PK primary key,
-Resource_Type char not null,
+Resource_ID integer auto_increment,
+Resource_Type char(1) not null,
 Title varchar(100) not null,
 Author varchar(100),
 Web_Address varchar(2083),
 Publication_Date date,
 Description varchar(10000),
-Date_Added date default current_timestamp
-constraint Resources_T_Resource_Type_CHK check(Resource_Type in ('P', 'B', 'W', 'V'))
+Date_Added timestamp default current_timestamp,
+constraint Resource_T_PK primary key (Resource_ID),
+foreign key (Resource_Type) references Resource_Type_T(Resource_Type)
 );
 
 Create table Papers_T(
-Paper_ID integer constraint Paper_T_PK primary key,
-Journal varchar(100)
-constraint Paper_T_FK foreign key (Paper_ID) references Resources_T(Resource_ID)
+Paper_ID integer,
+Journal varchar(100),
+constraint Paper_T_PK primary key (Paper_ID),
+foreign key (Paper_ID) references Resources_T(Resource_ID)
 );
 
 Create table Books_T(
-Book_ID integer constraint Book_T_PK primary key,
-Publisher varchar(100)
-constraint Book_T_FK foreign key (Book_ID) references Resources_T(Resource_ID)
+Book_ID integer,
+Publisher varchar(100),
+constraint Book_T_PK primary key (Book_ID),
+foreign key (Book_ID) references Resources_T(Resource_ID)
 );
 
 Create table CourseResource_T(
-Course_ID integer constraint CourseResource_T_PK1 primary key,
-Resource_ID integer constraint CourseResource_T_PK2 primary key,
-constraint CourseResource_T_FK1 foreign key (Course_ID) references Course_T(Course_ID),
-constraint CourseResource_T_FK2 foreign key (Resource_ID) references Resources_T(Resource_ID)
+Course_ID integer,
+Resource_ID integer,
+foreign key (Course_ID) references Courses_T(Course_ID),
+foreign key (Resource_ID) references Resources_T(Resource_ID),
+CONSTRAINT CourseResource_T_PK PRIMARY KEY (Course_ID, Resource_ID)
 );

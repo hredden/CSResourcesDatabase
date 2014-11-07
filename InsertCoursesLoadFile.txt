@@ -1,0 +1,4 @@
+load data infile 'localhost/CourseList.txt'
+	into table Courses_T (Course_Name)
+fields terminated by ',' enclosed by '"'
+lines terminated by '\r\n';
