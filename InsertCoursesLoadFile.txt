@@ -1,4 +1,5 @@
-load data infile 'localhost/CourseList.txt'
-	into table Courses_T (Course_Name)
+load data infile 'CourseList.txt'
+into table Courses_T 
 fields terminated by ',' enclosed by '"'
-lines terminated by '\r\n';
+lines terminated by '\r\n'
+(Course_Name);
